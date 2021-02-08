@@ -4,6 +4,10 @@
 
 # GUI PING 
 
+
+![Screenshot from 2021-02-08 14-25-29](https://user-images.githubusercontent.com/69615463/107200807-5c020280-6a22-11eb-9c12-bdd30f5479c6.png)
+
+
 <h6>Author :RKT</h6>
 
 Guiping is a Gui(Graphical User Interface)Ping Application Tool.
@@ -19,9 +23,7 @@ Guiping is a Gui(Graphical User Interface)Ping Application Tool.
 + cd guiping
 + sudo python3 guiping.py
 
-### Screentshots ###
-
-![Screenshot from 2021-02-08 14-25-29](https://user-images.githubusercontent.com/69615463/107200807-5c020280-6a22-11eb-9c12-bdd30f5479c6.png)
+### Example ###
 
 ![Screenshot from 2021-02-08 14-36-44](https://user-images.githubusercontent.com/69615463/107200914-8784ed00-6a22-11eb-93de-37b3ba6c3341.png)
 

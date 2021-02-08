@@ -6,7 +6,7 @@
 
 <h6>Author :RKT</h6>
 
-Guiping is a Gui(Graphical User Interface) Application Tool.
+Guiping is a Gui(Graphical User Interface)Ping Application Tool.
 
 ### Setup[PIP MODULE] ###
 

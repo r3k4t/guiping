@@ -23,7 +23,7 @@ Guiping is a Gui(Graphical User Interface)Ping Application Tool.
 + cd guiping
 + sudo python3 guiping.py
 
-### Example ###
+### Example : ###
 
 ![Screenshot from 2021-02-08 14-36-44](https://user-images.githubusercontent.com/69615463/107200914-8784ed00-6a22-11eb-93de-37b3ba6c3341.png)
 

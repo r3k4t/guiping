@@ -23,6 +23,10 @@ Guiping is a Gui(Graphical User Interface)Ping Application software.
 
 + https://www.python.org/downloads/
 
+![Screenshot from 2021-02-09 11-35-56](https://user-images.githubusercontent.com/69615463/107323616-c70a1280-6ad0-11eb-8faa-826467e7e535.png)
+
+
+
 ### Terminal Command ###
 
 + git clone https://github.com/r3k4t/guiping.git

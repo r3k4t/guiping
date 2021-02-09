@@ -14,8 +14,14 @@ Guiping is a Gui(Graphical User Interface)Ping Application software.
 
 ### Setup[PIP MODULE] ###
 
+<h6>Linux</h6>
+
 + sudo apt install python3-tk
 + sudo pip3 install -r requirements.txt
+
+<h6>Windows</h6>
+
++ https://www.python.org/downloads/
 
 ### Terminal Command ###
 
